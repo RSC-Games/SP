@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SP'
+copyright = '2022, RSC Games'
+author = 'RSC Games'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.5'
+version = '0.5.1'
 
 # -- General configuration
 
