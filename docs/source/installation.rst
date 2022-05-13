@@ -1,34 +1,10 @@
-Usage
+Installation
 =====
 
-.. _installation:
+Installing the SDK
+------------------
 
-Installation
-------------
+.. warning::
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Unfortunately, the SDK is very far behind in development right now. It's
+waiting on the SP APIs to mature. Check out the status at :doc:`api`.
