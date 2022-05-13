@@ -1,7 +1,10 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
+.. warning::
 
-   lumache
+   The SP Console API is incomplete! Only finished libraries are
+   detailed below.
+   
+
+
