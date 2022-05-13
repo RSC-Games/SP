@@ -13,8 +13,8 @@ at :doc:`api`.
 .. warning::
 
    This project is incomplete! The SDK is not solidified and the hardware
-   APIs are not production ready! If you're interested in becoming a 
-   game developer for this console, contact us at rsc.games.official@gmail.com.
+   APIs are not production ready! However, if you're interested in creating
+   release titles for this console, contact us at rsc.games.official@gmail.com.
 
 Contents
 --------
