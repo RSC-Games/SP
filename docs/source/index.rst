@@ -1,22 +1,27 @@
-Welcome to Lumache's documentation!
+Welcome to the SP's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The SP is a portable MicroPython-based reprogrammable game console.
+It uses an 0.96" OLED display, 7 buttons, an LED, and a speaker.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+To learn more about the console itself, read :doc:`hardware`. To
+develop software for the console, head over to :doc:`installation`. 
+For more information on the programming environment, look at 
+:doc:`sdk`. And to learn more about the console APIs themselves, look 
+at :doc:`api`.
 
-.. note::
+.. warning::
 
-   This project is under active development.
+   This project is incomplete! The SDK is not solidified and the hardware
+   APIs are not production ready! If you're interested in becoming a 
+   game developer for this console, contact us at rsc.games.official@gmail.com.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   installation
+   hardware
    api
+   sdk
